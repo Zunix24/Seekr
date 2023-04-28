@@ -7,7 +7,7 @@
    @@@@@@@@@@@@    @@@@             @@@@              @@@ @@@@@      @@@@       
             @@@@@   @@@@@@@@@@@@%    @@@@@@@@@@@@.    @@@   /@@@@    @@@@       
   &&&&       @@@@      *@@@@@@*         #@@@@@@*      @@@      @@@@  @@@@ 
-
+![Alt text](/seeker.png)
 
   Seekr is my personal Indexation and search engine project. it uploads files to the mysql database and keeps them in
   the ./uploads folder. The file details are considered by the local database such as title, size, format, keywords.
